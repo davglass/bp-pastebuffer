@@ -1,0 +1,10 @@
+
+Download the SDK:
+http://browserplus.yahoo.com/developer/service/sdk/
+
+
+
+[Uses the path to the sdk]
+From the src/service directory in this project
+
+../../../bpsdk/bin/ServiceInstaller -v .

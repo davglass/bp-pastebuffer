@@ -1,0 +1,27 @@
+This only works on OSX ;)
+
+First install BrowserPlus:
+http://browserplus.yahoo.com/install/
+
+Then Download the SDK:
+http://browserplus.yahoo.com/developer/service/sdk/
+
+Unzip it.
+
+From this directory:
+
+cd src/service
+[path to sdk]/bin/ServiceInstaller -v .
+
+Example:
+
+../../../bpsdk/bin/ServiceInstaller -v .
+
+That will install the Service on your machine..
+
+"You may need to restart your browser"
+
+The visit:
+tests/index.html
+
+
